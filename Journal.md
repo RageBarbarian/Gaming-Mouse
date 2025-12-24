@@ -1,4 +1,10 @@
-#Journal Day 1 (12/1/2025)
-Gathered As A Team And Got Design Ideas
-<Photo>
+# DAY 1 12/16/25: 3D DESIGN + MICROCONTROLLER LIBRARY DOWNLOAD:
+MEMBERS: VARUN, ANIRV; AGNI WAS NOT AVAILABLE
+TIME: 6:30-7:30pm
+WHAT WAS ACCOMPLISHED: We have been able to develop the first portotype design of our advanced gaming mouse. We have added the functions decided on including the arrows keys and space bar along with the normal functions of a mouse. We have designed a few parts in onshape like the base of our mouse with an asthetic design and with the keys needed. We have also been able to go on KiCAD and download one of th enecessary libraries needed for our pcb: the microcontroller. We have decided that our micrcontroller shall be the Seeed XIAO ESP32C3 chip due to its small structure and also being fast + reliable. It will fit into our 3D mouse base nicely but we might decide on something else otherwise. Our mouse pcb will be mainly inspired by the Bambu lab mouse kit. 
+<photo>
 
+# DAY 2 12/23/25: CREATING THE 3D DESIGN(CASE) AS WELL AS LISTING THE ELECTRONIC/CIRCUIT PARTS WE NEED TO PUT INTO KiCAD
+MEMBERS: VARUN, ANIRV, AGNI
+TIME: 4:30-_____
+WHHAT WAS ACCOMPLISHED: We have decided that most of the circuit components we are using in our mouse is going to be from the official Bambu Lab mouse kit. AGNI will be finding these parts in the Bambu kit and will be listing them so we can later download them into KiCAD for our final PCB. ANIRV and VARUN are working on the journal as well as the 3D case that maps around the circuits. ANIRV and VARUN are going to design the case through Onshape CAD. 
