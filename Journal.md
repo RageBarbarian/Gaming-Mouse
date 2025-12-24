@@ -2,7 +2,8 @@
 MEMBERS: VARUN, ANIRV; AGNI WAS NOT AVAILABLE
 TIME: 6:30-7:30pm
 WHAT WAS ACCOMPLISHED: We have been able to develop the first portotype design of our advanced gaming mouse. We added the functions decided on including the arrows keys and space bar along with the normal functions of a mouse. We designed a few parts in OnShape like the base of our mouse with an asthetic design and with the keys needed. We have also been able to go on KiCAD and download one of the necessary libraries needed for our PCB: the microcontroller. We have decided that our micrcontroller shall be the Seeed XIAO ESP32C3 chip due to its small structure and also being fast + reliable. It will fit into our 3D mouse base nicely but we might decide on something else otherwise. Our mouse pcb will be mainly inspired by the Bambu lab mouse kit. 
-<photo>
+<img width="773" height="439" alt="image" src="https://github.com/user-attachments/assets/8b396310-245e-471f-8b5d-3acf0208bb73" />
+
 
 # DAY 2 12/23/25: CREATING THE 3D DESIGN(CASE) AS WELL AS LISTING THE ELECTRONIC/CIRCUIT PARTS WE NEED TO PUT INTO KiCAD
 MEMBERS: VARUN, ANIRV, AGNI
