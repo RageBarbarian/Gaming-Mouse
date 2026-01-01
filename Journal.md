@@ -11,10 +11,12 @@ TIME: 4:30-6:30
 WHAT WAS ACCOMPLISHED: We have decided that most of the circuit components we are using in our mouse is going to be from the official Bambu Lab mouse kit. AGNI found these parts in the Bambu kit and listed them so we can later download them into KiCAD for our final PCB. ANIRV and VARUN worked on the journal as well as the 3D case that maps around the circuits. We are going to design the case through Onshape CAD.
 # Mouse Kit:
 <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/31a5f33f-94fe-4e39-a7a2-2fd0ddadb419" />
+
 # DAY 3 12/29/25: FINISH THE 3D CASE
 TIME: 4:00-7:00
 WHAT WAS ACCOMPLISHED: We finished the 3D mouse and drilled to make holes in the mouse. We then added some push buttons and used super glue to secure it in place. VARUN informed AGNI and ANIRV about all the parts of the mouse and how to use them.
 <photo>
+
 # DAY 4 12/31/25: 
 TIME: 4:00-6:00
 WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyboard. 
