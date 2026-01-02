@@ -21,4 +21,4 @@ WHAT WAS ACCOMPLISHED: We finished the 3D mouse and drilled to make holes in the
 # DAY 4 12/31/25: 
 MEMBERS: VARUN, ANIRV, AGNI
 TIME: 4:00-6:00
-WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyboard. 
+WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyboard. We made a new draft in OneShape with all the new componets added.
