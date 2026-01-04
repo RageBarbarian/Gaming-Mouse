@@ -21,4 +21,6 @@ WHAT WAS ACCOMPLISHED: We finished the 3D mouse and drilled to make holes in the
 # DAY 4 12/31/25: 
 MEMBERS: VARUN, ANIRV, AGNI
 TIME: 4:00-6:00
-WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyboard. We made a new draft in OneShape with all the new componets added.
+WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyboard. We made a new draft in OneShape with all the new componets added. First, we tested if the 4 pin buttons actually worked and they gave an outbut. After that, we tried to test if the bluetooth connection for the ESP32 was working and we got a Keyboard Output. (EX: the microcontroller typed "w" multiple times, proving there was a connection.)
+We have found a breakthrough and have gotten our code so that if we press any of the 4 four pin push buttons, then the computer will produce an output that matches the WASD formation. Although this design works, there are still some problems like the fact that a button is not consistant or the output comes differently. We had improved the code and made it more reliable. For our buttons, ANIRV and VARUN 
+<photo>
