@@ -30,19 +30,19 @@ We have found a breakthrough and have gotten our code so that if we press any of
 ![IMG_1610 1](https://github.com/user-attachments/assets/7e82f8e1-3caa-457f-8243-38ed1e599864)
 <img width="320" height="378" alt="Screenshot 2026-01-04 173712" src="https://github.com/user-attachments/assets/61e1715e-db23-42cc-ab88-ec0192d8c90d" />
 
-# CAPTION: This was our initial Microcontroller, a SEEED XIAO Microcontroller, but we did some research and found out that it does not support the number of pins we need.
+# This was our initial Microcontroller, a SEEED XIAO Microcontroller, but we did some research and found out that it does not support the number of pins we need.
 
 <img width="357" height="335" alt="Screenshot 2026-01-04 173534" src="https://github.com/user-attachments/assets/5c6d90a1-6099-4898-a99e-c2878ba1c801" />
 
-# CAPTION: This is our new Microcontroller, an ESP32, and this can handle 10+ push buttons and supports all our functions.
+# This is our new Microcontroller, an ESP32, and this can handle 10+ push buttons and supports all our functions.
 
 <img width="302" height="308" alt="Screenshot 2026-01-04 173337" src="https://github.com/user-attachments/assets/21575f86-ff5b-42b2-88de-c104ed322a0c" />
 
-# CAPTION: This are the push buttons that we used. They are effective and perfect for our mouse.
+# This are the push buttons that we used. They are effective and perfect for our mouse.
 
 <img width="326" height="339" alt="Screenshot 2026-01-04 173211" src="https://github.com/user-attachments/assets/30ed0631-a39e-4631-96a9-a5f868ee0c46" />
 
-# CAPTION: The Bambu Lab Kit came with a lazer sensor but it was attached to the microcontroller. Thus, we decided to buy a new lazer sensor, the PMW3901.
+# The Bambu Lab Kit came with a lazer sensor but it was attached to the microcontroller. Thus, we decided to buy a new lazer sensor, the PMW3901.
 
 <img width="567" height="321" alt="Screenshot 2026-01-04 173017" src="https://github.com/user-attachments/assets/21f35678-db3b-422f-9029-360cdc7419bc" />
 <img width="491" height="292" alt="Screenshot 2026-01-04 173007" src="https://github.com/user-attachments/assets/13bc5b1a-9223-4e64-8b7c-9a87a4dedbaa" />
