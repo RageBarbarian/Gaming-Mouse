@@ -25,7 +25,6 @@ WHAT WAS ACCOMPLISHED: Changed plans and now decided to to make a mouse and keyb
 We have found a breakthrough and have gotten our code so that if we press any of the 4 four pin push buttons, then the computer will produce an output that matches the WASD formation. Although this design works, there are still some problems like the fact that a button is not consistant or the output comes differently. We had improved the code and made it more reliable. For our buttons, ANIRV and VARUN 
 <photo>
 
-![IMG_1607 1](https://github.com/user-attachments/assets/0612ac15-50ac-49c1-a10f-a0aa8baed8cb)
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
 ![IMG_1609 1](https://github.com/user-attachments/assets/106fabf1-e9f5-492c-8c6d-ab7b2a018f58)
 ![IMG_1610 1](https://github.com/user-attachments/assets/7e82f8e1-3caa-457f-8243-38ed1e599864)
