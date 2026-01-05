@@ -28,4 +28,3 @@ We have found a breakthrough and have gotten our code so that if we press any of
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
 ![IMG_1609 1](https://github.com/user-attachments/assets/106fabf1-e9f5-492c-8c6d-ab7b2a018f58)
 ![IMG_1610 1](https://github.com/user-attachments/assets/7e82f8e1-3caa-457f-8243-38ed1e599864)
-![IMG_1611 1](https://github.com/user-attachments/assets/71b00b91-dced-4bbf-9ba1-8e163120e2f9)
