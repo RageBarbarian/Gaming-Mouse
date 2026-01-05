@@ -28,3 +28,11 @@ We have found a breakthrough and have gotten our code so that if we press any of
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
 ![IMG_1609 1](https://github.com/user-attachments/assets/106fabf1-e9f5-492c-8c6d-ab7b2a018f58)
 ![IMG_1610 1](https://github.com/user-attachments/assets/7e82f8e1-3caa-457f-8243-38ed1e599864)
+<img width="320" height="378" alt="Screenshot 2026-01-04 173712" src="https://github.com/user-attachments/assets/61e1715e-db23-42cc-ab88-ec0192d8c90d" />
+<img width="357" height="335" alt="Screenshot 2026-01-04 173534" src="https://github.com/user-attachments/assets/5c6d90a1-6099-4898-a99e-c2878ba1c801" />
+<img width="302" height="308" alt="Screenshot 2026-01-04 173337" src="https://github.com/user-attachments/assets/21575f86-ff5b-42b2-88de-c104ed322a0c" />
+<img width="326" height="339" alt="Screenshot 2026-01-04 173211" src="https://github.com/user-attachments/assets/30ed0631-a39e-4631-96a9-a5f868ee0c46" />
+<img width="567" height="321" alt="Screenshot 2026-01-04 173017" src="https://github.com/user-attachments/assets/21f35678-db3b-422f-9029-360cdc7419bc" />
+<img width="491" height="292" alt="Screenshot 2026-01-04 173007" src="https://github.com/user-attachments/assets/13bc5b1a-9223-4e64-8b7c-9a87a4dedbaa" />
+<img width="520" height="355" alt="Screenshot 2026-01-04 172955" src="https://github.com/user-attachments/assets/d6c45c47-ca55-45e2-9e70-d948076eb2ad" />
+
