@@ -27,7 +27,6 @@ We have found a breakthrough and have gotten our code so that if we press any of
 
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
 ![IMG_1609 1](https://github.com/user-attachments/assets/106fabf1-e9f5-492c-8c6d-ab7b2a018f58)
-![IMG_1610 1](https://github.com/user-attachments/assets/7e82f8e1-3caa-457f-8243-38ed1e599864)
 <img width="320" height="378" alt="Screenshot 2026-01-04 173712" src="https://github.com/user-attachments/assets/61e1715e-db23-42cc-ab88-ec0192d8c90d" />
 
 # This was our initial Microcontroller, a SEEED XIAO Microcontroller, but we did some research and found out that it does not support the number of pins we need for the push buttons and other components.
