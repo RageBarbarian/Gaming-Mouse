@@ -32,6 +32,7 @@ We have found a breakthrough and have gotten our code so that if we press any of
 MEMBERS: VARUN, ANIRV, AGNI
 TIME: 4:00-6:00
 WHAT WAS ACCOMPLISHED: We mainly focused on cleaning up and finalizing our project journal. We went back through all previous days and polished the wording, fixed formatting issues, and made sure everything was clearly explained and consistent. We also added a proper list of parts (BOM), including the components taken from the Bambu Lab mouse kit and the additional push buttons and microcontroller-related parts. Most of the time was spent updating, organizing, and reviewing the journal to make sure it accurately reflects our progress and design decisions so far.
+
 <img width="320" height="378" alt="Screenshot 2026-01-04 173712" src="https://github.com/user-attachments/assets/61e1715e-db23-42cc-ab88-ec0192d8c90d" />
 
 # This was our initial Microcontroller, the SEEED XIAO, but we did some research and found out that it does not support the number of pins we need for the push buttons and other components.
