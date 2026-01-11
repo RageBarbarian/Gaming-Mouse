@@ -12,10 +12,10 @@ WHAT WAS ACCOMPLISHED: We have decided that most of the circuit components we ar
 # Mouse Kit:
 <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/31a5f33f-94fe-4e39-a7a2-2fd0ddadb419" />
 
-# DAY 3 12/29/25: FINISH THE 3D CASE
+# DAY 3 12/29/25: FINALIZE A PLAN
 MEMBERS: VARUN, ANIRV, AGNI
 TIME: 4:00-7:00
-WHAT WAS ACCOMPLISHED: 
+WHAT WAS ACCOMPLISHED: We came up with the initial idea of combining a push-button keyboard with a mouse to handle WASD movement inputs. We decided that the four push buttons would be physically integrated into the mouse itself for ease of use and better ergonomics. However, due to space, wiring, and complexity constraints, the microcontroller could not be placed inside the mouse. Although we did not like the idea of having a separate external module at first, we compromised by designing a small module that would house the microcontroller and connect to the mouse via USB. This day was focused on brainstorming, discussing trade-offs, and finalizing the core concept so implementation could begin later.
 
 # DAY 4 12/31/25: 
 MEMBERS: VARUN, ANIRV, AGNI
@@ -27,6 +27,11 @@ We have found a breakthrough and have gotten our code so that if we press any of
 
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
 ![IMG_1609 1](https://github.com/user-attachments/assets/106fabf1-e9f5-492c-8c6d-ab7b2a018f58)
+
+# DAY 4 12/31/25: 
+MEMBERS: VARUN, ANIRV, AGNI
+TIME: 4:00-6:00
+WHAT WAS ACCOMPLISHED: We mainly focused on cleaning up and finalizing our project journal. We went back through all previous days and polished the wording, fixed formatting issues, and made sure everything was clearly explained and consistent. We also added a proper list of parts (BOM), including the components taken from the Bambu Lab mouse kit and the additional push buttons and microcontroller-related parts. Most of the time was spent updating, organizing, and reviewing the journal to make sure it accurately reflects our progress and design decisions so far.
 <img width="320" height="378" alt="Screenshot 2026-01-04 173712" src="https://github.com/user-attachments/assets/61e1715e-db23-42cc-ab88-ec0192d8c90d" />
 
 # This was our initial Microcontroller, the SEEED XIAO, but we did some research and found out that it does not support the number of pins we need for the push buttons and other components.
