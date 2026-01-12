@@ -55,6 +55,6 @@ WHAT WAS ACCOMPLISHED: We mainly focused on cleaning up and finalizing our proje
 
 # DAY 6 1/7/26:
 MEMBERS: VARUN, ANIRV, AGNI
-TIME: 5:00-7:30
-WHAT WAS ACCOMPLISHED: 
+TIME: 3:00-5:00
+WHAT WAS ACCOMPLISHED: As a group, we went over all the parts what what each one of them does. We also coded the basics of the mouse and the functions of the buttons from the Bambu Lab Kit.
 
