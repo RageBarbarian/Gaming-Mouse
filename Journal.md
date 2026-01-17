@@ -56,5 +56,17 @@ WHAT WAS ACCOMPLISHED: We mainly focused on cleaning up and finalizing our proje
 # DAY 6 1/7/26:
 MEMBERS: VARUN, ANIRV, AGNI
 TIME: 3:00-5:00
-WHAT WAS ACCOMPLISHED: As a group, we went over all the parts what what each one of them does. We also coded the basics of the mouse and the functions of the buttons from the Bambu Lab Kit.
+WHAT WAS ACCOMPLISHED: As a group, we went over all the parts what what each one of them does. We also coded the basics of the mouse and the functions of the buttons from the Bambu Lab Kit. AGNI and VARUN tried to get a head start on the optical sensor component by trying to code it and see if it functions properly. Ufortunately we did not have enough time to code the sensor and have it actually working but we will in one of the next meetings. 
+
+After the meeting VARUN took all the components we are using in our mouse and donwloaded their symbols into KiCAD for the final schematic:
+
+<img width="994" height="590" alt="Screenshot 2026-01-16 214732" src="https://github.com/user-attachments/assets/5cfb684b-fa13-4dd6-ab9b-b3cb365ee5fe" />
+
+
+We decided on making the schematic not so that we will buy a pcb board for the mouse, but for documentation and a guide for soldering later on. Instead of using a physical pcb board for the mouse, we decided we will solder wires to each of the components from the esp32 for more flexibility in the mouse. While soldering we will use the wiring in the schematic to succesfully connect all components to the esp32. For now we will solder all components except the PWM3901 optical sensor. This is becuase we are unsure of it totally working due to how VARUN and AGNI were trying to code it the past meeting and failed. We want to be safe so wel will be connecting eveyrything but that in the next meeting or Day 7. 
+
+# DAY 7 1/17/26
+MEMBERS: ANIRV, AGNI, VARUN
+TIME: 4:00-
+WHAT WAS ACCOMPLISHED:
 
