@@ -22,7 +22,7 @@ MEMBERS: VARUN, ANIRV, AGNI
 TIME: 4:00-6:00
 WHAT WAS ACCOMPLISHED: We made a new draft in OneShape with all the new componets added. First, we tested if the 4 pin buttons actually worked and they gave an outbut. After that, we tried to test if the bluetooth connection for the ESP32 was working and we got a Keyboard Output. (EX: the microcontroller typed "w" multiple times, proving there was a connection.)
 This was so that we would have the code preuploaded or pre-ready for the 4 push buttons we will later incorporate into the whole mouse design for the WASD keys.
-We have found a breakthrough and have gotten our code so that if we press any of the 4 four pin push buttons, then the computer will produce an output that matches the WASD formation. Although the design works, there were still some problems like the fact that a button is not consistant or the output comes differently. We had improved the code  later after a few itterations and made it more reliable. 
+We had later found a breakthrough and had gotten our code so that if we press any of the 4 four pin push buttons, the computer will produce an output that matches the WASD formation. Although the design works, there were still some problems like the fact that a button is not consistant or the output comes differently. We had improved the code later after a few itterations and made it more reliable. 
 
 
 ![IMG_1608 1](https://github.com/user-attachments/assets/cc8f2461-88ae-4baf-ae4f-069e39391c6f)
