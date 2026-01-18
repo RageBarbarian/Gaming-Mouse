@@ -63,10 +63,10 @@ After the meeting VARUN took all the components we are using in our mouse and do
 <img width="994" height="590" alt="Screenshot 2026-01-16 214732" src="https://github.com/user-attachments/assets/5cfb684b-fa13-4dd6-ab9b-b3cb365ee5fe" />
 
 
-We decided on making the schematic not so that we will buy a pcb board for the mouse, but for documentation and a guide for soldering later on. Instead of using a physical PCB for the mouse, we decided we will solder wires to each of the components from the esp32 for more flexibility in the mouse. While soldering we will use the wiring in the schematic to succesfully connect all components to the esp32. For now we will solder all components except the PWM3901 optical sensor. This is becuase we are unsure of it totally working due to how we were trying to code it the past meeting and failed. We want to be safe so we will be connecting eveyrything but that in the next meeting or Day 7. 
+We decided on making the schematic not so that we will buy a pcb board for the mouse, but for documentation and a guide for soldering later on. Instead of using a physical PCB for the mouse, we decided we will solder wires to each of the components from the ESP32 for more flexibility in the mouse. While soldering we will use the wiring in the schematic to succesfully connect all components to the ESP32. For now we will solder all components except the PMW3901 optical sensor. This is becuase we are unsure of it to  tally working due to how we were trying to code it the past meeting and failed. We want to be safe so we will be connecting eveyrything but that in the next meeting or Day 7. 
 
 # DAY 7 1/17/26
 MEMBERS: ANIRV, AGNI, VARUN
 TIME: 4:00-7:00
-WHAT WAS ACCOMPLISHED:
+WHAT WAS ACCOMPLISHED: Today we soldered all the the parts of the Bambu Lab Mouse Kit to our ESP32. ANIRV and AGNI learned how to do it in the proccess amd VARUN coached them, along with his dad. We took many safety precautions, including masks and goggles. This is to stop the entry of harmful substances to the body, including fumes from the solder. We also had a major breakthrough in the coding of the optocal sensor and managed to code it and make it work.
 
