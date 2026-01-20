@@ -68,5 +68,5 @@ We decided on making the schematic not so that we will buy a pcb board for the m
 # DAY 7 1/17/26
 MEMBERS: ANIRV, AGNI, VARUN
 TIME: 4:00-7:00
-WHAT WAS ACCOMPLISHED: Today we soldered all the the parts of the Bambu Lab Mouse Kit to our ESP32. ANIRV and AGNI learned how to do it in the proccess amd VARUN coached them, along with his dad. We took many safety precautions, including masks and goggles. This is to stop the entry of harmful substances to the body, including fumes from the solder. We also had a major breakthrough in the coding of the optocal sensor and managed to code it and make it work.
+WHAT WAS ACCOMPLISHED: Today we soldered all the the parts of the Bambu Lab Mouse Kit to our ESP32. ANIRV and AGNI learned how to do it in the proccess amd VARUN coached them, along with his dad. We took many safety precautions, including masks and goggles. This is to stop the entry of harmful substances to the body, including fumes from the solder. However, we wasted many buttons while practicing how to wire them up. We also had a major breakthrough in the coding of the optical sensor and managed to make it work.
 
