@@ -65,8 +65,14 @@ After the meeting VARUN took all the components we are using in our mouse and do
 
 We decided on making the schematic not so that we will buy a pcb board for the mouse, but for documentation and a guide for soldering later on. Instead of using a physical PCB for the mouse, we decided we will solder wires to each of the components from the ESP32 for more flexibility in the mouse. While soldering we will use the wiring in the schematic to succesfully connect all components to the ESP32. For now we will solder all components except the PMW3901 optical sensor. This is becuase we are unsure of it to  tally working due to how we were trying to code it the past meeting and failed. We want to be safe so we will be connecting eveyrything but that in the next meeting or Day 7. 
 
-# DAY 7 1/17/26
+# DAY 7 1/17/26:
 MEMBERS: ANIRV, AGNI, VARUN
 TIME: 4:00-7:00
 WHAT WAS ACCOMPLISHED: Today we soldered all the the parts of the Bambu Lab Mouse Kit to our ESP32. ANIRV and AGNI learned how to do it in the proccess amd VARUN coached them, along with his dad. We took many safety precautions, including masks and goggles. This is to stop the entry of harmful substances to the body, including fumes from the solder. However, we wasted many buttons while practicing how to wire them up. We also had a major breakthrough in the coding of the optical sensor and managed to make it work.
 
+# Day 81/25/26:
+MEMBERS: ANIRV, AGNI, VARUN
+TIME: 4:00-7:00
+WHAT WAS ACCOMPLISHED: ![0822186d-97a9-4e98-bd3f-25de8089d33c](https://github.com/user-attachments/assets/8186e643-d1e8-46ea-a4e9-e9cce8e26f35)
+We checked the resistance of all pins on the optical sensor were working with the multimeter and if they were soldered correctly.
+Our ESP32 turned into an Aurduino for a short span of time. Bluetooth doesn't work in certain
